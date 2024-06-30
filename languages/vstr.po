@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Visitor Tracker\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2021-06-14 14:32+0200\n"
+"PO-Revision-Date: 2021-06-14 14:32+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.4\n"
+"Last-Translator: \n"
+"Language: en\n"
+
+#: includes/vstr_admin.php:115
+msgid "Visitors Tracker"
+msgstr ""
+
+#: includes/vstr_admin.php:116
+msgid "Settings"
+msgstr ""
+
+#: includes/vstr_admin.php:154 includes/vstr_admin.php:584
+msgid "Settings saved"
+msgstr ""
+
+#: includes/vstr_admin.php:189
+msgid "Last Visits"
+msgstr ""
+
+#: includes/vstr_admin.php:191
+msgid "Filter by User"
+msgstr ""
+
+#: includes/vstr_admin.php:199
+msgid "Filter by IP"
+msgstr ""
+
+#: includes/vstr_admin.php:201 includes/vstr_admin.php:220
+#: includes/vstr_admin.php:399
+msgid "All"
+msgstr ""
+
+#: includes/vstr_admin.php:218
+msgid "Filter by Role"
+msgstr ""
+
+#: includes/vstr_admin.php:232
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/vstr_admin.php:233
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/vstr_admin.php:388
+msgid "Targeted customers"
+msgstr ""
+
+#: includes/vstr_admin.php:400
+msgid "Registered"
+msgstr ""
+
+#: includes/vstr_admin.php:403
+msgid "Defines the targeted customers"
+msgstr ""
+
+#: includes/vstr_admin.php:406
+msgid "Retain visitor data for"
+msgstr ""
+
+#: includes/vstr_admin.php:434
+msgid "1 day"
+msgstr ""
+
+#: includes/vstr_admin.php:435
+msgid "3 days"
+msgstr ""
+
+#: includes/vstr_admin.php:436
+msgid "7 days"
+msgstr ""
+
+#: includes/vstr_admin.php:437
+msgid "1 month"
+msgstr ""
+
+#: includes/vstr_admin.php:438
+msgid "2 months"
+msgstr ""
+
+#: includes/vstr_admin.php:439
+msgid "3 months"
+msgstr ""
+
+#: includes/vstr_admin.php:440
+msgid "Forever"
+msgstr ""
+
+#: includes/vstr_admin.php:443
+msgid "Visits will be deleted after this period"
+msgstr ""
+
+#: includes/vstr_admin.php:446
+msgid "Information panel position"
+msgstr ""
+
+#: includes/vstr_admin.php:457
+msgid "Left"
+msgstr ""
+
+#: includes/vstr_admin.php:458
+msgid "Right"
+msgstr ""
+
+#: includes/vstr_admin.php:461
+msgid "Defines the information panel position"
+msgstr ""
+
+#: includes/vstr_admin.php:464
+msgid "Remove 00:00 duration visits"
+msgstr ""
+
+#: includes/vstr_admin.php:475 includes/vstr_admin.php:493
+#: includes/vstr_admin.php:513
+msgid "No"
+msgstr ""
+
+#: includes/vstr_admin.php:476 includes/vstr_admin.php:494
+#: includes/vstr_admin.php:514
+msgid "Yes"
+msgstr ""
+
+#: includes/vstr_admin.php:479
+msgid "Remove useless visits from list"
+msgstr ""
+
+#: includes/vstr_admin.php:482
+msgid "Don't record visits from administrators"
+msgstr ""
+
+#: includes/vstr_admin.php:497
+msgid "The users having the admin role will not be tracked"
+msgstr ""
+
+#: includes/vstr_admin.php:502
+msgid "Don't record visits from tactile devices"
+msgstr ""
+
+#: includes/vstr_admin.php:517
+msgid "Users using mobiles and tablets will not be tracked"
+msgstr ""
+
+#: includes/vstr_admin.php:522
+msgid "Don't record visits from these IP"
+msgstr ""
+
+#: includes/vstr_admin.php:524 includes/vstr_admin.php:527
+msgid "Enter the IP adresses, separated by commas"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31
+msgid "ID"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31
+msgid "Date"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31
+msgid "User"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31
+msgid "Role"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31
+msgid "Time past"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31
+msgid "IP"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31
+msgid "Browser"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31
+msgid "Country"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31
+msgid "City"
+msgstr ""
+
+#: includes/vstr_visitsTable.php:31 includes/vstr_visitsTable.php:163
+msgid "View the visit"
+msgstr ""
